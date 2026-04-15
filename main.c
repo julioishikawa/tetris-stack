@@ -4,7 +4,7 @@
  * Programa que simula a fila de peças futuras do jogo Tetris Stack,
  * utilizando uma fila circular para gerenciar as peças.
  * 
- * Desenvolvido para a ByteBros.
+ * Desenvolvido para a ByteBros. (Empresa fictícia de desenvolvimento de jogos)
  */
 
 #include <stdio.h>
