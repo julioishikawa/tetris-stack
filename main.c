@@ -56,6 +56,12 @@ int main() {
             case 3:
                 usarPecaReservada(&pilha);
                 break;
+            case 4:
+                trocarPecaAtual(&fila, &pilha);
+                break;
+            case 5:
+                trocaMultipla(&fila, &pilha);
+                break;
             case 0:
                 printf("\nEncerrando o jogo...\n");
                 break;
